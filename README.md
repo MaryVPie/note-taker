@@ -52,7 +52,7 @@ The following images show the web application's appearance and functionality:
 ## Links to Review
 
 
-* The URL of the functional, deployed application:
+* The URL of the functional, deployed application on Heroku:
 
 * The URL of the GitHub repository: https://github.com/MaryVPie/note-taker
 
