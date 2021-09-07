@@ -2,8 +2,7 @@
 
 ## About
 
-This is an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file.
-
+This is an application called Note Taker that can be used to write and save notes. 
 ## User Story
 
 ```
@@ -25,34 +24,19 @@ The following images show the web application's appearance and functionality:
 
 ## Work done screenshots of the page
 
-| <img src="assets/images/pixels.jpg" width="450" height="300" alt=""/>| <img src="./Assets/10-object-oriented-programming-homework-demo.png" width="450" height="300" alt=""/> |
+| <img src="./Assets/W1.PNG" width="450" height="400" alt="Added a note main"/>| <img src="./Assets/W2.PNG" width="450" height="400" alt="Shows the added note"/> |
 | --- | --- |
 |  Work done 1 | Work done 2 |
 
 
 ## What's included
+This application uses an Express.js back end and saves and retrieves note data from a JSON file.
 
-- index.html:
-    - optimized for the accessibility needs
-
-- styles.css
-  - optimized styles
-  - comments about how they are styling respective elements groups
-  
-- script.js:
-  - working with objects
-  - optimized code using functions
-
-- Technologies/Frameworks/Resources:
-  - JQuery
-  - server-side APIs
-  - materializecss
-  - google fonts
 
 ## Links to Review
 
 
-* The URL of the functional, deployed application on Heroku:
+* The URL of the functional, deployed application on Heroku: https://note-taker-mvpie.herokuapp.com/
 
 * The URL of the GitHub repository: https://github.com/MaryVPie/note-taker
 
